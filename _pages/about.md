@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+----
 
-# Personal information
+## Biography
 I am currently a second-year graduate student at Beijing Normal University with a research focus on food security.
